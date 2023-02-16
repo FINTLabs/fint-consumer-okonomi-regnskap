@@ -1,0 +1,1 @@
+# fint-consumer-okonomi-regnskap
